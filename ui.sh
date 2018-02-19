@@ -2,6 +2,7 @@
 # UI fuer den Stoffverteilungsplan
 # liest von der shell Benutzereingaben, welche weiterverarbeitet werden
 # Das Ergebnis dient als argument für queryexcutor-skript
+# 19.01.2018
 
 stufeVon=""
 stufeBis=""

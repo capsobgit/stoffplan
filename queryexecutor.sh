@@ -2,6 +2,7 @@
 # In diesem Skript wird aus den Argumenten 
 # die eigentliche query gebildet und an filemaker.sh
 # weitergeleitet
+# 19.02.2018
 
 login='mysql -N -u stoffplan -e' 
 sql='select link from stoff'

@@ -1,4 +1,6 @@
 #!/bin/bash
+# Skript zum drehen der eingescannten pdfs
+# 19.02.2018
 
 count=0
 index=1
